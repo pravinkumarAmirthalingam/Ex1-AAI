@@ -1,5 +1,5 @@
-<H3> Name  BALASUBRAMANIAM L</H3> 
-<H3>Register No.21222424020</H3> 
+<H3> Name  PRAVIN KUMAR A L</H3> 
+<H3>Register 212223230155</H3> 
 <H3> Experiment 1</H3>
 <H3>DATE: 20/7/2026</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
